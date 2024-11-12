@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(41, 30, 30);
+    color: aliceblue;
+}
+.Home{
+   background-color: rgb(182, 157, 157);
+   color: green;
+}
+button li a {
+text-decoration: none;
+font-size: medium;
+}
+.About{
+    background-color: black;
+    color: wheat;
+    border-radius:2px;
+}
